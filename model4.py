@@ -1,5 +1,12 @@
-from scrapper import scrape_links, page_title_from_url
-from NLPmodel import get_embedding, cosine_sim
+from scrapper import (
+    scrape_links,
+    page_title_from_url
+)
+
+from NLPmodel import (
+    get_embedding,
+    cosine_sim
+)
 
 def choose_next_source(
     source_url,
@@ -8,13 +15,12 @@ def choose_next_source(
     dest_title_emb,
     dest_content_emb
 ):
-    links = scrape_links(source_url, visited)
-
-    if dest_url in links:
-        return dest_url
-
-    if not links:
-        return None
+    
+    links = scrape_links(
+        source_url,
+        visited,
+        dest_url
+    )
 
     scored = []
 
@@ -26,7 +32,7 @@ def choose_next_source(
         score_content = cosine_sim(title_emb, dest_content_emb)
 
         # weighted score
-        final_score = 0.6 * score_title + 0.4 * score_content
+        final_score = max(score_title, score_content)
 
         scored.append(
             (final_score, url, title, score_title, score_content)
@@ -41,7 +47,7 @@ def choose_next_source(
             f"(title={st:.3f}, content={sc:.3f})"
         )
 
-    return scored[0][1] if scored else None
+    return [url for _, url, _, _, _ in scored[:5]] if scored else None
 
 
 # ---------------- RUN ---------------- #
@@ -73,7 +79,7 @@ def run(source_url, dest_url):
         print(f"\nSTEP {step + 1}: {page_title_from_url(current)}")
         visited.add(current)
 
-        next_page = choose_next_source(
+        next_pages = choose_next_source(
             current,
             visited,
             dest_url,
@@ -81,19 +87,18 @@ def run(source_url, dest_url):
             dest_content_emb
         )
 
-        if not next_page:
+        for next_page in next_pages:
+            if next_page == dest_url:
+                print("\n🎯 DESTINATION REACHED!")
+                return
+            if next_page in visited:
+                print("Loop detected, skipping:", next_page)
+                continue
+            current = next_page
+            step += 1
+            break
+
+        else:
             print("No path forward")
             break
-
-        if next_page == dest_url:
-            print("\n🎯 DESTINATION REACHED!")
-            break
-
-        if next_page in visited:
-            print("Loop detected, stopping")
-            break
-
-        current = next_page
-        step += 1
-
 

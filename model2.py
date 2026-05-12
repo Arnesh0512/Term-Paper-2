@@ -1,6 +1,7 @@
 from scrapper import (
     scrape_links,
-    page_title_from_url
+    scrape_dest_lead_para,
+    scrape_contents
 )
 
 from NLPmodel import (
@@ -23,31 +24,38 @@ def choose_next_source(
         dest_url
     )
 
+    contents = scrape_contents(links)
+
     scored = []
 
-    for url in links:
-        title = page_title_from_url(url)
-        emb = get_embedding(title)
+    for url, text in zip(links, contents):
+
+        if not text:
+            continue
+
+        emb = get_embedding(text)
         score = cosine_sim(emb,dest_embedding)
-        scored.append((score, url, title))
+        scored.append((score, url))
 
-    scored.sort(reverse=True,key=lambda x: x[0])
-    print("\nTop candidates (by title similarity):")
+    scored.sort(
+        reverse=True,
+        key=lambda x: x[0]
+    )
 
-    for score, url, title in scored[:5]:
-        print(f"{score:.3f} → {title}")
+    print("\nTop candidates:")
 
-    return [url for _, url, _ in scored[:5]] if scored else None
+    for score, url in scored[:5]:
+        print(f"{score:.3f} → {url}")
+
+    return [url for _, url in scored[:5]] if scored else None
 
 # ---------------- MAIN RUN ---------------- #
 
 def run(source_url,dest_url):
     print("\nFetching destination embedding...")
-    dest_title = page_title_from_url(dest_url)
+    dest_content = scrape_dest_lead_para(dest_url)
+    dest_embedding = get_embedding(dest_content)
 
-    print("Destination title:",dest_title)
-    dest_embedding = get_embedding(dest_title)
-    
     current = source_url
     visited = set()
     step = 0
@@ -77,5 +85,3 @@ def run(source_url,dest_url):
         else:
             print("No path forward")
             break
-
-
