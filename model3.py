@@ -21,6 +21,8 @@ def choose_next_source(
         visited,
         dest_url
     )
+    if dest_url in links:
+        return [dest_url]
 
     scored = []
     for url in links:

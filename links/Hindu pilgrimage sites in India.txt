@@ -3,14 +3,12 @@ https://en.wikipedia.org/wiki/Titiksha
 https://en.wikipedia.org/wiki/Matha
 https://en.wikipedia.org/wiki/Asana
 https://en.wikipedia.org/wiki/Moksha
-https://en.wikipedia.org/wiki/Hindu_philosophy
 https://en.wikipedia.org/wiki/Bhakti_yoga
 https://en.wikipedia.org/wiki/Saccid%C4%81nanda
 https://en.wikipedia.org/wiki/Sv%C4%81dhy%C4%81ya
 https://en.wikipedia.org/wiki/Shabda
 https://en.wikipedia.org/wiki/Pr%C4%81ya%C5%9Bcitta
 https://en.wikipedia.org/wiki/Tattva
-https://en.wikipedia.org/wiki/Hindu_pilgrimage_sites_in_India
 https://en.wikipedia.org/wiki/An%C4%81tman_(Hinduism)
 https://en.wikipedia.org/wiki/Faith_in_Hinduism
 https://en.wikipedia.org/wiki/Mariamman
@@ -73,7 +71,6 @@ https://en.wikipedia.org/wiki/Parvati
 https://en.wikipedia.org/wiki/Samskara_(rite_of_passage)
 https://en.wikipedia.org/wiki/R%C4%81ja_yoga
 https://en.wikipedia.org/wiki/Deva_(Hinduism)
-https://en.wikipedia.org/wiki/Bhagavan
 https://en.wikipedia.org/wiki/Shaivism
 https://en.wikipedia.org/wiki/Mitahara
 https://en.wikipedia.org/wiki/Saguna_brahman
@@ -115,7 +112,6 @@ https://en.wikipedia.org/wiki/Sannyasa
 https://en.wikipedia.org/wiki/Yamas
 https://en.wikipedia.org/wiki/Diwali
 https://en.wikipedia.org/wiki/Exorcism_in_Hinduism
-https://en.wikipedia.org/wiki/Hindu_mythology
 https://en.wikipedia.org/wiki/Smarta_tradition
 https://en.wikipedia.org/wiki/Hindu_synthesis
 https://en.wikipedia.org/wiki/Shakti
@@ -144,9 +140,9 @@ https://en.wikipedia.org/wiki/Pramana
 https://en.wikipedia.org/wiki/Tirtha_(Hinduism)
 https://en.wikipedia.org/wiki/Bhakti
 https://en.wikipedia.org/wiki/Pumsavana
-https://en.wikipedia.org/wiki/Ishvara
 https://en.wikipedia.org/wiki/Pashupata_Shaivism
 https://en.wikipedia.org/wiki/Pratyabhijna
+https://en.wikipedia.org/wiki/Ishvara
 https://en.wikipedia.org/wiki/Kirtan
 https://en.wikipedia.org/wiki/Achourya
 https://en.wikipedia.org/wiki/Chudakarana
@@ -168,7 +164,6 @@ https://en.wikipedia.org/wiki/Kama
 https://en.wikipedia.org/wiki/Punya_(Hinduism)
 https://en.wikipedia.org/wiki/Shaucha
 https://en.wikipedia.org/wiki/Three_bodies_doctrine
-https://en.wikipedia.org/wiki/The_Hindu_Pantheon
 https://en.wikipedia.org/wiki/Tarpana
 https://en.wikipedia.org/wiki/Agni
 https://en.wikipedia.org/wiki/Chandra

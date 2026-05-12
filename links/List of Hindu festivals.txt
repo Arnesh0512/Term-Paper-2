@@ -73,7 +73,6 @@ https://en.wikipedia.org/wiki/Parvati
 https://en.wikipedia.org/wiki/Samskara_(rite_of_passage)
 https://en.wikipedia.org/wiki/R%C4%81ja_yoga
 https://en.wikipedia.org/wiki/Deva_(Hinduism)
-https://en.wikipedia.org/wiki/Bhagavan
 https://en.wikipedia.org/wiki/Shaivism
 https://en.wikipedia.org/wiki/Mitahara
 https://en.wikipedia.org/wiki/Saguna_brahman
@@ -130,6 +129,7 @@ https://en.wikipedia.org/wiki/Vaishnavism
 https://en.wikipedia.org/wiki/Devata
 https://en.wikipedia.org/wiki/Rama
 https://en.wikipedia.org/wiki/Yoga
+https://en.wikipedia.org/wiki/Hindu_deities
 https://en.wikipedia.org/wiki/Artha
 https://en.wikipedia.org/wiki/Keshanta
 https://en.wikipedia.org/wiki/P%C4%81pa
@@ -140,13 +140,14 @@ https://en.wikipedia.org/wiki/Santosha
 https://en.wikipedia.org/wiki/Pancharatra
 https://en.wikipedia.org/wiki/%C4%80nanda_(Hindu_philosophy)
 https://en.wikipedia.org/wiki/Viveka
+https://en.wikipedia.org/wiki/God_in_Hinduism
 https://en.wikipedia.org/wiki/Pramana
 https://en.wikipedia.org/wiki/Tirtha_(Hinduism)
 https://en.wikipedia.org/wiki/Bhakti
 https://en.wikipedia.org/wiki/Pumsavana
-https://en.wikipedia.org/wiki/Ishvara
 https://en.wikipedia.org/wiki/Pashupata_Shaivism
 https://en.wikipedia.org/wiki/Pratyabhijna
+https://en.wikipedia.org/wiki/Ishvara
 https://en.wikipedia.org/wiki/Kirtan
 https://en.wikipedia.org/wiki/Achourya
 https://en.wikipedia.org/wiki/Chudakarana
@@ -168,7 +169,6 @@ https://en.wikipedia.org/wiki/Kama
 https://en.wikipedia.org/wiki/Punya_(Hinduism)
 https://en.wikipedia.org/wiki/Shaucha
 https://en.wikipedia.org/wiki/Three_bodies_doctrine
-https://en.wikipedia.org/wiki/The_Hindu_Pantheon
 https://en.wikipedia.org/wiki/Tarpana
 https://en.wikipedia.org/wiki/Agni
 https://en.wikipedia.org/wiki/Chandra
