@@ -112,39 +112,10 @@ def scrape_links(
 
     return list(links)
 
-# ---------------- DESTINATION CONTENT ---------------- #
-
-def scrape_dest_lead_para(dest_url):
-
-    response = requests.get(
-        dest_url,
-        headers=HEADERS,
-        timeout=10
-    )
-
-    response.raise_for_status()
-
-    soup = BeautifulSoup(
-        response.text,
-        "html.parser"
-    )
-
-    for p in soup.find_all("p"):
-
-        text = clean_text(
-            p.get_text(" ", strip=True)
-        )
-
-        if len(text) > 50:
-            return text
-
-    raise RuntimeError(
-        "Failed to extract destination lead paragraph"
-    )
 
 # ---------------- CONTENT FETCH ---------------- #
 
-def fetch_lead(url):
+def scrape_content(url):
 
     fname = os.path.join(
         CACHE_DIR,
@@ -203,5 +174,5 @@ def scrape_contents(urls):
     ) as executor:
 
         return list(
-            executor.map(fetch_lead, urls)
+            executor.map(scrape_content, urls)
         )

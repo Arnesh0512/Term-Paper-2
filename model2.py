@@ -1,6 +1,6 @@
 from scrapper import (
     scrape_links,
-    scrape_dest_lead_para,
+    scrape_content,
     scrape_contents
 )
 
@@ -55,7 +55,7 @@ def choose_next_source(
 
 def run(source_url,dest_url):
     print("\nFetching destination embedding...")
-    dest_content = scrape_dest_lead_para(dest_url)
+    dest_content = scrape_content(dest_url)
     dest_embedding = get_embedding(dest_content)
 
     current = source_url
