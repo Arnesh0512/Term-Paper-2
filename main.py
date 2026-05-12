@@ -1,4 +1,4 @@
-from model1 import run
+from model3 import run
 
 source = input("Source Wikipedia URL: ").strip()
 dest = input("Destination Wikipedia URL: ").strip()
