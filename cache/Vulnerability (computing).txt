@@ -1,0 +1,1 @@
+In computer security , vulnerabilities are flaws or weaknesses in a system's design, implementation, or management that can be exploited by a malicious actor to compromise its security.

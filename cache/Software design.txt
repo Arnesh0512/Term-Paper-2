@@ -1,0 +1,1 @@
+Software design is the process of conceptualizing how a software system will work before it is implemented or modified. [ 1 ] Software design also refers to the direct result of the design process – the concepts of how the software will work which may be formally documented or may be maintained less formally, including via oral tradition .

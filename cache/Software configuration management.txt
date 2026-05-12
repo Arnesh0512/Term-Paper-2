@@ -1,0 +1,1 @@
+Software configuration management ( SCM ), a.k.a. software change and configuration management ( SCCM ), [ 1 ] is the software engineering practice of tracking and controlling changes to a software system . It is part of the larger cross-disciplinary field of configuration management (CM). [ 2 ] SCM includes version control and the establishment of baselines .

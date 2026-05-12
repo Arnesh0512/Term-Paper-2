@@ -1,0 +1,1 @@
+Essential systems analysis was a new methodology for software specification published in 1984 by Stephen M. McMenamin and John F. Palmer for performing structured systems analysis based on the concept of event partitioning . [ 1 ]

@@ -1,0 +1,1 @@
+The highest median voting rules are a class of graded voting rules where the candidate with the highest median rating is elected.

@@ -1,0 +1,1 @@
+In classical mechanics , a constraint on a system is a parameter that the system must obey. For example, a box sliding down a slope must remain on the slope. There are two different types of constraints: holonomic and non-holonomic. [ 1 ]

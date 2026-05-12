@@ -1,0 +1,1 @@
+A computation is any type of arithmetic or non-arithmetic calculation that is well-defined. [ 1 ] [ 2 ] Common examples of computation are mathematical equation solving and the execution of computer algorithms .

@@ -1,0 +1,1 @@
+The Borda method or order of merit is a positional voting rule that gives each candidate a number of points equal to the number of candidates ranked below them: the lowest-ranked candidate gets 0 points, the second-lowest gets 1 point, and so on. The candidate with the most points wins.

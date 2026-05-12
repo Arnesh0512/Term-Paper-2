@@ -1,0 +1,1 @@
+Iteration means repeating a process to generate a (possibly unbounded) sequence of outcomes. Each repetition of the process is a single iteration, and the outcome of each iteration is the starting point of the next iteration.

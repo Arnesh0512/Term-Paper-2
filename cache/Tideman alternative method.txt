@@ -1,0 +1,1 @@
+The Tideman Alternative method , also called [ by whom? ] Alternative - Smith voting , is a voting rule developed by Nicolaus Tideman which selects a single winner using ranked ballots . This method is Smith-efficient , making it a Condorcet method , and uses instant-runoff voting to resolve any cyclic ties .

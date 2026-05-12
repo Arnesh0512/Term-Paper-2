@@ -1,0 +1,1 @@
+DeCSS is one of the first free computer programs capable of decrypting commercially produced DVD-Video discs. Before the release of DeCSS, free and open source operating systems (such as BSD and Linux ) could not play encrypted video DVDs.

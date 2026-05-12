@@ -1,0 +1,1 @@
+A web application (or web app ) is application software that is created with web technologies and runs via a web browser . [ 1 ] [ 2 ] Web applications emerged during the late 1990s and allowed for the server to dynamically build a response to the request, in contrast to static web pages . [ 3 ]

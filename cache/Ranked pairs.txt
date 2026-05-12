@@ -1,0 +1,1 @@
+Ranked Pairs ( RP ), also known as the Tideman method , is a ranked voting method that determines a single winner from ballots that rank candidates in order of preference.  The method is like a round-robin tournament in that it examines every possible pairing of one candidate against another.

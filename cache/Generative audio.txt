@@ -1,0 +1,1 @@
+Generative audio refers to the creation of audio files from databases of audio clips . [ citation needed ] This technology differs from synthesized voices such as Apple's Siri or Amazon's Alexa , which use a collection of fragments that are stitched together on demand.

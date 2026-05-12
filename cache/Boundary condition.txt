@@ -1,0 +1,1 @@
+In the study of differential equations , a boundary-value problem is a differential equation subjected to constraints called boundary conditions . [ 1 ] A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions.

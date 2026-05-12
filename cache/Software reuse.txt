@@ -1,0 +1,1 @@
+Code reuse is the practice of using existing source code to develop software instead of writing new code. Software reuse is a broader term that implies using any existing software asset to develop software instead of developing it again. [ 1 ] [ 2 ] : 7 An asset that is relatively easy to reuse and offers significant value is considered to have high reusability .

@@ -1,0 +1,1 @@
+The sequential elimination methods are a class of voting systems that repeatedly eliminate the last-place finisher of another voting method until a single candidate remains. [ 1 ] The method used to determine the loser is called the base method . Common are the two-round system , instant-runoff voting , and some primary systems .

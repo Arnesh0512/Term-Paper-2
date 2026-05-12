@@ -1,0 +1,1 @@
+In computing , an abstraction layer or abstraction level is a way of hiding the working details of a subsystem. Examples of software models that use layers of abstraction include the OSI model for network protocols , OpenGL , and other graphics libraries , which allow the separation of concerns to facilitate interoperability and platform independence .

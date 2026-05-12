@@ -1,0 +1,1 @@
+A software development process prescribes a process for developing software . It typically divides an overall effort into smaller steps or sub-processes that are intended to ensure high-quality results. The process may describe specific deliverables – artifacts to be created and completed. [ 1 ]

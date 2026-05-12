@@ -1,0 +1,1 @@
+The input–process–output (IPO) model , or input-process-output pattern, is a widely used approach in systems analysis and software engineering for describing the structure of an information processing program or other process.  Many introductory programming and systems analysis texts introduce this as the most basic structure for describing a process. [ 1 ] [ 2 ] [ 3 ] [ 4 ]

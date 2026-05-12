@@ -1,0 +1,1 @@
+A functional specification (also, functional spec , specs , functional specifications document (FSD) , functional requirements specification ) in systems engineering and software development is a document that specifies the functions that a system or component must perform (often part of a requirements specification) (ISO/IEC/IEEE 24765-2010). [ 1 ]

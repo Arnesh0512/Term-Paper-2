@@ -1,0 +1,1 @@
+Software categories are groups of software . They allow software to be understood in terms of those categories, instead of the particularities of each package. Different classification schemes consider different aspects of software.

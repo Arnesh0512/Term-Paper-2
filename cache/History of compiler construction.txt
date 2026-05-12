@@ -1,0 +1,1 @@
+In computing , a compiler is a computer program that transforms source code written in a programming language or computer language (the source language ), into another computer language (the target language , often having a binary form known as object code or machine code ). The most common reason for transforming source code is to create an executable program.

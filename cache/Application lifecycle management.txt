@@ -1,0 +1,1 @@
+Application lifecycle management ( ALM ) is the product lifecycle management ( governance , development , and maintenance ) of computer programs . It encompasses requirements management , software architecture , computer programming , software testing , software maintenance , change management , continuous integration , project management , and release management . [ 1 ] [ 2 ]

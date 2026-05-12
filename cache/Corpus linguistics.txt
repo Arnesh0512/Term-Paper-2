@@ -1,0 +1,1 @@
+Corpus linguistics is an empirical method for the study of language by text corpus (plural corpora ). [ 1 ] Corpora are balanced, often stratified collections of authentic, "real world", text of speech or writing that aim to represent a given linguistic variety . [ 1 ] Today, corpora are generally machine-readable data collections.

@@ -1,0 +1,1 @@
+The basic study of system design is the understanding of component parts and their subsequent interaction with one another. [ 1 ]

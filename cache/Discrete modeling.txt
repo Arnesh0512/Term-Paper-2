@@ -1,0 +1,1 @@
+Discrete modelling is the discrete analogue of continuous modelling .  In discrete modelling, formulae are fit to discrete data —data that could potentially take on only a countable set of values, such as the integers , and which are not infinitely divisible. A common method in this form of modelling is to use recurrence relations .

@@ -1,0 +1,1 @@
+Information theory is the mathematical study of the quantification , storage , and communication of a particular type of mathematically defined information . The field was established and formalized by Claude Shannon in the 1940s, [ 1 ] though early contributions were made in the 1920s through the works of Harry Nyquist and Ralph Hartley .

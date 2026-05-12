@@ -1,0 +1,1 @@
+An application service provider ( ASP ) is a business providing application software generally through the Web . [ 1 ] ASPs that specialize in a particular application (such as a medical billing program) may be referred to as providing software as a service .

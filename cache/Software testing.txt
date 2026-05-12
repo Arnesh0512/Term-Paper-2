@@ -1,0 +1,1 @@
+Software testing is the act of checking whether software meets its intended objectives and satisfies expectations.

@@ -1,0 +1,1 @@
+Programming language theory ( PLT ) is a branch of computer science that deals with the design, implementation, analysis, characterization, and classification of formal languages known as programming languages . Programming language theory is closely related to other fields including linguistics , mathematics , and software engineering .

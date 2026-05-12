@@ -1,0 +1,1 @@
+In theoretical computer science , a problem is one that asks for a solution in terms of an algorithm . For example, the problem of factoring

@@ -1,0 +1,1 @@
+Machine learning in bioinformatics is the application of machine learning algorithms to bioinformatics , including genomics , proteomics , microarrays , systems biology , evolution , and text mining .

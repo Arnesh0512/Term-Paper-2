@@ -1,0 +1,1 @@
+In computer software , an operating environment or integrated applications environment is the environment in which users run application software . The environment consists of a user interface provided by an applications manager and usually an application programming interface (API) to the applications manager.

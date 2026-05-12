@@ -1,0 +1,1 @@
+Software requirements [ 1 ] for a system are the description of what the system should do, the service or services that it provides and the constraints on its operation.  The IEEE Standard Glossary of Software Engineering Terminology defines a requirement as: [ 2 ]

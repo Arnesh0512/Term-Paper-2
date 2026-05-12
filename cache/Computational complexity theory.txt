@@ -1,0 +1,1 @@
+In theoretical computer science and mathematics, computational complexity theory focuses on classifying computational problems according to their resource usage, and explores the relationships between these classifications. A computational problem is a task solved by a computer and is solvable by mechanical application of mathematical steps, such as an algorithm .

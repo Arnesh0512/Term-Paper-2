@@ -1,0 +1,1 @@
+A family of computer models is said to be compatible if certain software that runs on one of the models can also be run on all other models of the family. The computer models may differ in performance , reliability or some other characteristic. These differences may affect the outcome of the running of the software.

@@ -1,0 +1,1 @@
+The software release life cycle is the process of developing , testing , and distributing a software product (e.g., an operating system ). It typically consists of several stages, such as pre-alpha, alpha, beta, and release candidate, before the final version, or "gold", is released to the public.

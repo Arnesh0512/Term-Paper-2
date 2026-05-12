@@ -1,0 +1,1 @@
+Combined approval voting ( CAV ) is an electoral system where each voter may express approval, disapproval, or indifference toward each candidate. [ 1 ] The winner is the candidate with the highest score, which is determined by subtracting the number of disapproval votes from the number of approval votes.

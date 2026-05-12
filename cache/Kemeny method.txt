@@ -1,0 +1,1 @@
+The Kemeny method is an electoral system that uses ranked ballots and pairwise comparison counts to identify the most popular choices in an election.  It is a Condorcet method because if there is a Condorcet winner, it will always be ranked as the most popular choice.

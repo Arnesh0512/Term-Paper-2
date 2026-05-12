@@ -1,0 +1,1 @@
+Hybrid intelligent system denotes a software system which employs, in parallel, a combination of methods and techniques from artificial intelligence subfields, such as:

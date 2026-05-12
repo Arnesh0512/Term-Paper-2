@@ -1,0 +1,1 @@
+In the waterfall model , [ 1 ] requirements engineering is presented as the first phase of the software development process. Later development methods, including the Rational Unified Process (RUP) for software, assume that requirements engineering continues through a system's lifetime.

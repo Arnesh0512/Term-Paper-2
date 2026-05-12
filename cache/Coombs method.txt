@@ -1,0 +1,1 @@
+Coombs' method is a ranked voting system . Like instant-runoff (IRV-RCV) , Coombs' method is a sequential-loser method , where the last-place finisher according to one method is eliminated in each round. However, unlike in instant-runoff, each round has electors voting against their least-favorite candidate; the candidate ranked last by the most voters is eliminated. [ 1 ]

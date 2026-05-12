@@ -1,0 +1,1 @@
+A safety-critical system [ 2 ] or life-critical system is a system whose failure or malfunction may result in one (or more) of the following outcomes: [ 3 ] [ 4 ]

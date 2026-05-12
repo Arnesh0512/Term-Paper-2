@@ -1,0 +1,1 @@
+Component-based software engineering ( CBSE ), also called component-based development ( CBD ), is a style of software engineering that aims to construct a software system from components that are loosely coupled and reusable . This emphasizes the separation of concerns among components. [ 1 ] [ 2 ]

@@ -1,0 +1,1 @@
+Computer memory stores information, such as data and programs, for immediate use in the computer ; [ 2 ] instructions fetched by the computer, and data fetched and stored by those instructions, are located in computer memory. The terms memory , main memory , and primary storage are also used for computer memory.

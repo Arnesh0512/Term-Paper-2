@@ -1,0 +1,1 @@
+The Borda count electoral system can be combined with an instant-runoff procedure to create hybrid election methods that are called Nanson's method and Baldwin's method . Both methods are designed to satisfy the Condorcet criterion , and allow for incomplete ballots and equal rankings.

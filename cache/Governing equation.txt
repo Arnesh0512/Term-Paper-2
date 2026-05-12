@@ -1,0 +1,1 @@
+The governing equations of a mathematical model describe how the values of the unknown variables (i.e. the dependent variables ) change when one or more of the known (i.e. independent ) variables change.

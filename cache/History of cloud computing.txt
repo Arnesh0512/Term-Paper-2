@@ -1,0 +1,1 @@
+The concept of the cloud computing as a platform for distributed computing traces its roots back to 1993. At that time, Apple spin-off General Magic and AT&T utilized the term in the context of their Telescript and Personal Link technologies. [ 1 ]
